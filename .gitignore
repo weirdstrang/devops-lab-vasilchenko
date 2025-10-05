@@ -1,0 +1,77 @@
+# Windows
+# Папка эскизов
+Thumbs.db
+# Файл подкачки
+*.stackdump
+# Папки для временных файлов
+[Tt]humbs.db
+$RECYCLE.BIN/
+*.lnk
+
+# Временные файлы
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+*.bak
+*.backup
+*.pid
+*.seed
+*.pid.lock
+*.tgz
+*.tar.gz
+
+# Логи
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.log.*
+logs/
+
+# Файлы зависимостей
+node_modules/
+jspm_packages/
+*.tsbuildinfo
+.npm
+.eslintcache
+.yarn-integrity
+.pnp.*
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Файлы сборки/дистрибутива
+/dist/
+/build/
+/.nyc_output
+/coverage/
+*.tsbuildinfo
+*.tgz
+*.tar.gz
+
+# Файлы окружения
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.venv
+
+# Дополнительные исключения
+# Файлы пакетных менеджеров
+package-lock.json
+yarn.lock
+
+# Документация
+/docs/_build/
+
+# Кэш
+.cache/
+.parcel-cache/
