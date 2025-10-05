@@ -1,4 +1,4 @@
 # devops-lab-vasilchenko
 ### Vasilchenko Irina Sergeevna
-### **tg:** @weirdstrang
+### tg: @weirdstrang
 ### **github:** github.com/weirdstrang
