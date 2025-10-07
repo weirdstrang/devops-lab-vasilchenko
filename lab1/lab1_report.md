@@ -10,5 +10,5 @@ Date of finished: 10.10.2025
 
 # Установка Docker
 ## Установить Docker Desktop (для Windows/Mac) или Docker Engine (для Linux)
-<img width="941" height="649" alt="image" src="https://github.com/user-attachments/assets/1baec7a0-3dd0-4388-9c58-e3554db1b08d" />
-
+## Проверить установку командой docker --version
+<img width="1163" height="160" alt="image" src="https://github.com/user-attachments/assets/5e632f70-2831-4c87-a1f7-0078f033394a" />
