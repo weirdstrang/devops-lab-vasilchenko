@@ -12,3 +12,8 @@ Date of finished: 10.10.2025
 ## Установить Docker Desktop (для Windows/Mac) или Docker Engine (для Linux)
 ## Проверить установку командой docker --version
 <img width="1163" height="160" alt="image" src="https://github.com/user-attachments/assets/5e632f70-2831-4c87-a1f7-0078f033394a" />
+
+## Запустить тестовый контейнер: docker run hello-world
+<img width="1909" height="619" alt="image" src="https://github.com/user-attachments/assets/31077613-db6a-4f0c-b910-1c5ec30dc17d" />
+
+## Изучить базовые команды: docker images, docker ps, docker ps -a
