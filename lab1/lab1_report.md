@@ -1,4 +1,4 @@
-<img width="1196" height="512" alt="image" src="https://github.com/user-attachments/assets/23703925-202a-4b60-baf6-35d979bae133" />University: [ITMO University](https://itmo.ru/ru/)
+>University: [ITMO University](https://itmo.ru/ru/)
 Faculty: [FTMI]((https://ftmi.itmo.ru/))
 Course: [Введение в веб технологии](https://itmo-ict-faculty.github.io/introduction-in-web-tech/)
 Year: 2025/2026
