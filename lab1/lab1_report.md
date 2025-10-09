@@ -30,5 +30,3 @@ Date of finished: 10.10.2025
 # Управление контейнерами
 # Работа с томами
 <img width="1196" height="512" alt="image" src="https://github.com/user-attachments/assets/6950ebd6-8fde-47fb-9949-261472ed4479" />
-
-
