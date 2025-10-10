@@ -53,6 +53,4 @@ C:\Users\Ирина\Desktop\ICT-Minor>docker run -d -p 5000:5000 --name flask-co
 C:\Users\Ирина\Desktop\ICT-Minor>curl http://localhost:5000  
 Hello from Docker!  
 
-
 C:\Users\Ирина\Desktop\ICT-Minor>
-
