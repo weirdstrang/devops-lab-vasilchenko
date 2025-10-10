@@ -38,5 +38,3 @@ Date of finished: 07.10.2025
 
 ## Смержите Pull Request и удалите ветку develop.
 <img width="1861" height="675" alt="image" src="https://github.com/user-attachments/assets/34b89708-5352-4300-a8e9-5e3c9f2b671a" />
-
-
