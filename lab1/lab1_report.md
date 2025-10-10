@@ -28,5 +28,6 @@ Date of finished: 10.10.2025
 <img width="768" height="380" alt="image" src="https://github.com/user-attachments/assets/9a273df5-8a11-4c54-869d-161f4751f228" />
 
 # Управление контейнерами
-# Работа с томами
-<img width="1196" height="512" alt="image" src="https://github.com/user-attachments/assets/6950ebd6-8fde-47fb-9949-261472ed4479" />
+# Работа с томами (доработка)
+<img width="890" height="626" alt="image" src="https://github.com/user-attachments/assets/e79c0dd3-b76e-4f48-a2e0-d05594491204" />
+
