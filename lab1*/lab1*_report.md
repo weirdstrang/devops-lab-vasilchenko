@@ -54,5 +54,3 @@ C:\Users\Ирина\Desktop\ICT-Minor>curl http://localhost:5000
 Hello from Docker!  
 
 C:\Users\Ирина\Desktop\ICT-Minor>
-
-й
