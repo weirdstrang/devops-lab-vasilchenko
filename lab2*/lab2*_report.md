@@ -3,9 +3,9 @@ Faculty: FTMI
 Course: Введение в веб технологии  
 Year: 2025/2026  
 Group: U4225  
-Author: Vasilchenko Irina Sergeevna
+Author: Vasilchenko Irina Sergeevna  
 Lab: Lab2*  
-Date of create: 10.10.2025 Date of finished: 14.10.2025
+Date of create: 10.10.2025 Date of finished: 14.10.2025  
 ---
 
 # Создание ветки для разработки
