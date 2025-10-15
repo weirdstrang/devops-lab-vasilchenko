@@ -46,7 +46,13 @@ Date of finished: 16.10.2025
 # Открыть Prometheus и убедиться, что метрики собираются
 <img width="1911" height="579" alt="image" src="https://github.com/user-attachments/assets/a2a19b3b-fa9d-4974-822e-ce0de60482ce" />
 
-# Открыть Grafana и проверить отображение графиков
+# Открыть Grafana и проверить отображение графиков. Создать несколько графиков для разных метрик (CPU, память, диск)
+<img width="863" height="486" alt="image" src="https://github.com/user-attachments/assets/f4ab29ec-0163-40b1-b806-55dd452323a4" />
+<img width="841" height="479" alt="image" src="https://github.com/user-attachments/assets/48f3804f-7734-4b04-901e-b6e0351ee4d2" />
+<img width="909" height="487" alt="image" src="https://github.com/user-attachments/assets/fb71530f-adc1-4063-92d0-50473d560603" />
+
+
+
 
 
 
