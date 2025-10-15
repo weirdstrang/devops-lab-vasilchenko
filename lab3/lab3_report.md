@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c2d06dc-6201-48de-afe3-39b7c1ca9e65" />University: ITMO University  
 Faculty: FTMI  
 Course: Введение в веб технологии  
 Year: 2025/2026  
