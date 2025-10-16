@@ -5,6 +5,7 @@ site_url: https://weirdstrang.github.io/khl
 
 theme:
   name: material
+  logo: images/logo.png
   # Цветовая схем
   palette:
     # Светлая тема
@@ -55,7 +56,60 @@ markdown_extensions:
       permalink: true
   - meta
 
-# Дополнительный CSS
+extra:
+    social:
+      - icon: fontawesome/brands/vk
+        link: https://vk.com/vkhl
+        name: ВКонтакте
+      - icon: fontawesome/brands/telegram
+        link: https://t.me/vkhl_official
+        name: Telegram
+      - icon: fontawesome/brands/youtube
+        link: https://youtube.com/c/VKHL
+        name: YouTube
+      - icon: fontawesome/brands/instagram
+        link: https://instagram.com/vkhl_official
+        name: Instagram
+      - icon: fontawesome/brands/tiktok
+        link: https://tiktok.com/@vkhl
+        name: TikTok
+
+# Copyright информация
+copyright: |
+  &copy; 2024 Вискас Кошачья Хоккейная Лига. 
+  Все права защищены. 
+  Самый пушистый хоккей на планете! 🐾🏒
+
+# Дополнительные ссылки в футере
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  
+  # Дополнительные ссылки
+  footer_links:
+    partners:
+      - Вискас - Официальный партнер
+      - Purina - Питание чемпионов
+      - Хоккейная Федерация России
+    quick_links:
+      - Расписание матчей
+      - Турнирная таблица
+      - Правила лиги
+      - Купить билеты
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - toc:
+      permalink: true
+
 extra_css:
   - stylesheets/extra.css
 
@@ -64,5 +118,4 @@ nav:
   - О себе: about.md
   - Проекты: projects.md
   - Контакты: contacts.md
-  - Достижения лиги: resume.md
-  - Для СМИ: resume.md
+
