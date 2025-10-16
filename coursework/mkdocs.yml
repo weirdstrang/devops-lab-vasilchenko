@@ -5,8 +5,8 @@ site_url: https://weirdstrang.github.io/khl
 
 theme:
   name: material
-  logo: images/logo.png
-  # Цветовая схем
+  logo: images/logo.jpg
+  # Цветовая схема
   palette:
     # Светлая тема
     - scheme: default
@@ -75,13 +75,6 @@ extra:
 copyright: |
   &copy; 2025 Вискас Кошачья Хоккейная Лига. 
   Все права защищены. 
-
-  # Дополнительные ссылки
-  footer_links:
-    partners:
-      - Вискас - Официальный партнер
-      - Purina - Питание чемпионов
-      - Хоккейная Федерация России
       
 plugins:
   - search
@@ -100,11 +93,10 @@ extra_css:
 
 nav:
   - Главная: index.md
-  - О себе: about.md
+  - О чемпионате: about.md
   - Проекты: projects.md
   - Контакты: contacts.md
   - Достижения: achievements.md
   - Для СМИ: resume.md
-
 
 
