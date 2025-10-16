@@ -6,14 +6,19 @@ site_url: https://weirdstrang.github.io/khl
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - search.highlight
-    - search.share
+    - navigation.tabs  
+    - navigation.sections  
+    - navigation.top  
+    - search.highlight  
+    - search.share  
+    - search.suggest  
+    - search.highlight  
+    - search.share 
+
 
 nav:
   - Главная: index.md
   - О себе: about.md
   - Проекты: projects.md
+
   - Контакты: contacts.md
