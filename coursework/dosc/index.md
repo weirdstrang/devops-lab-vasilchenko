@@ -5,9 +5,9 @@
 
 Выбирай свою команду, следи за расписанием и приготовьтесь! Потому что наш хоккей — это не просто спорт. Это любовь с первого мяу.
 
-<div style="display:flex; overflow-x:auto; scroll-snap-type:x mandatory;">
-  <img src="8.jpg" style="width:300px; scroll-snap-align:start; margin-right:10px;">
-  <img src="9.jpg" style="width:300px; scroll-snap-align:start; margin-right:10px;">
-  <img src="10.jpg" style="width:300px; scroll-snap-align:start; margin-right:10px;">
-  <img src="11.jpg" style="width:300px; scroll-snap-align:start; margin-right:10px;">
-</div>
+
+
+
+| ![8.jpg](images/8.jpg)     | ![9.jpg](images/9.jpg) |
+|-----------------------------|-----------------------------|
+| ![10.jpg](images/10.jpg) | ![11.jpg](images/11.jpg) |
