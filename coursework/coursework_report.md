@@ -33,7 +33,8 @@ Date of finished: 16.10.2025
 # Этап 2: Настройка конфигурации
 
 ## Настройка mkdocs.yml. Настройка навигации
-**Открыть файл mkdocs.yml. Настроить базовые параметры. Добавить тему Material. Создать структуру навигации в mkdocs.yml. Добавить разделы: Главная, О себе, Проекты, Контакты**
+**Открыть файл mkdocs.yml. Настроить базовые параметры. Добавить тему Material. Создать структуру навигации в mkdocs.yml. Добавить разделы: Главная, О себе, Проекты, Контакты**  
+Примечание: скриншот сделан до того, как появилась идея сделать сайт хоккейного чемпионата.
 <img width="1717" height="703" alt="image" src="https://github.com/user-attachments/assets/6f0c3160-df2e-4464-b924-771598a6f56f" />
 
 # Этап 3. Создание контента
@@ -47,9 +48,12 @@ Date of finished: 16.10.2025
 
 <img width="968" height="433" alt="image" src="https://github.com/user-attachments/assets/3f632477-c528-4402-8510-a140d9a8c170" />
 ## Настройка поиска. Протестировать функциональность поиска
+<img width="1909" height="971" alt="image" src="https://github.com/user-attachments/assets/3dafcf41-9819-4eb6-87b7-79705814b8de" />
+
 
 ## Добавить доп. страницу 1
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72f6c155-6a63-41cd-ad85-909d58ff5523" />
+<img width="1909" height="829" alt="image" src="https://github.com/user-attachments/assets/38efd7c4-d6b1-443c-beb3-81f78f2fdbd1" />
+
 
 ## Добавить 2-ю доп. страницу
 <img width="1873" height="729" alt="image" src="https://github.com/user-attachments/assets/09d63aa8-1ab8-4cb8-a21a-516bc0d1d893" />
@@ -66,6 +70,42 @@ Date of finished: 16.10.2025
 
 # Этап 6: Тестирование и публикация
 ## Локальное тестирование
+Запустить локальный сервер
+<img width="860" height="360" alt="image" src="https://github.com/user-attachments/assets/b6dea58d-b3c1-420f-8db7-dec5775388bc" />
+
+Проверить все страницы и ссылки
+<img width="1911" height="989" alt="image" src="https://github.com/user-attachments/assets/991da001-cc97-4e07-8d48-bd3c23a1773b" />
+<img width="1911" height="953" alt="image" src="https://github.com/user-attachments/assets/3a1e8943-7a51-451c-b1ab-29080307fc4d" />
+<img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/1f75d689-5133-4ade-821b-4a4ba259518e" />
+<img width="1913" height="971" alt="image" src="https://github.com/user-attachments/assets/2aa448f1-2186-4cc0-b74d-65df3e53c0db" />
+<img width="1913" height="997" alt="image" src="https://github.com/user-attachments/assets/229d7587-9312-4379-8151-821f179f1f14" />
+<img width="1907" height="949" alt="image" src="https://github.com/user-attachments/assets/4bfe304d-80b7-4202-8c93-c38ec15c7697" />
+<img width="1911" height="985" alt="image" src="https://github.com/user-attachments/assets/02941029-8a0f-4e60-8940-a37f487c31fa" />
+<img width="1909" height="983" alt="image" src="https://github.com/user-attachments/assets/a3ba9171-0136-42d0-9d76-e5f946e4274e" />
+<img width="1909" height="971" alt="image" src="https://github.com/user-attachments/assets/75c59c30-e0e4-4af8-b69b-4a4bf1855b67" />
+<img width="1909" height="981" alt="image" src="https://github.com/user-attachments/assets/1d7c7821-7c74-4ff4-8d99-a74a67a49f9a" />
+
+## Сборка сайта
+
+<img width="889" height="173" alt="image" src="https://github.com/user-attachments/assets/a386c416-ef6a-426c-8fdf-9540034e016f" />
+Проверить содержимое папки site/
+<img width="920" height="469" alt="image" src="https://github.com/user-attachments/assets/2aeed0e2-db0c-45fa-90b8-fb34c812a44a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
