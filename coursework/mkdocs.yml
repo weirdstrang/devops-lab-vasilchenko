@@ -5,6 +5,24 @@ site_url: https://weirdstrang.github.io/khl
 
 theme:
   name: material
+  # Цветовая схем
+  palette:
+    # Светлая тема
+    - scheme: default
+      primary: light blue
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Ночной режим
+    
+    # Темная тема
+    - scheme: slate
+      primary: blue
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Дневной режим
+  
   features:
     - navigation.tabs  
     - navigation.sections  
@@ -12,13 +30,39 @@ theme:
     - search.highlight  
     - search.share  
     - search.suggest  
-    - search.highlight  
-    - search.share 
 
+  # Дополнительные настройки темы
+  icon:
+    logo: material/hockey-puck
+  
+  # Фон для заголовка (опционально)
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+# Плагины
+plugins:
+  - search
+
+# Дополнительные расширения Markdown
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - toc:
+      permalink: true
+  - meta
+
+# Дополнительный CSS
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Главная: index.md
   - О себе: about.md
   - Проекты: projects.md
-
   - Контакты: contacts.md
+  - Достижения лиги: resume.md
+  - Для СМИ: resume.md
