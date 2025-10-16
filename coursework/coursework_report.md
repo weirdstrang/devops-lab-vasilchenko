@@ -36,6 +36,22 @@ Date of finished: 16.10.2025
 **Открыть файл mkdocs.yml. Настроить базовые параметры. Добавить тему Material. Создать структуру навигации в mkdocs.yml. Добавить разделы: Главная, О себе, Проекты, Контакты**
 <img width="1717" height="703" alt="image" src="https://github.com/user-attachments/assets/6f0c3160-df2e-4464-b924-771598a6f56f" />
 
+# Этап 3. Создание контента
+<img width="1655" height="508" alt="image" src="https://github.com/user-attachments/assets/e360b6a4-b8b8-4a36-8df7-ae621a64083f" />
+<img width="1704" height="672" alt="image" src="https://github.com/user-attachments/assets/d1cf9c64-6d8e-4d14-bef4-a93e2f7ef4ba" />
+<img width="1704" height="672" alt="image" src="https://github.com/user-attachments/assets/a9b8e9bf-2312-4b02-869d-3a53b2dac6fb" />
+<img width="1623" height="814" alt="image" src="https://github.com/user-attachments/assets/bf34455d-440b-41a2-b88d-ddc44ba74e97" />
+
+# Этап 4: Дополнительные возможности
+## Создать папку docs/images/
+
+<img width="968" height="433" alt="image" src="https://github.com/user-attachments/assets/3f632477-c528-4402-8510-a140d9a8c170" />
+## Настройка поиска. Протестировать функциональность поиска
+
+
+
+
+
 
 
 
