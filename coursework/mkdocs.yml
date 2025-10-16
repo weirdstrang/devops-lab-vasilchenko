@@ -1,0 +1,19 @@
+site_name: ВИСКАС КОШАЧЬЯ ХОККЕЙНАЯ ЛИГА
+site_description: Добро пожаловать на сайт первого чемпионата для котов. Новости, интервью и турнирная таблица. **Присоединяйтесь к самому теплому и пушистому чемпионату!**
+site_author: Ирина Васильченко
+site_url: https://weirdstrang.github.io/khl
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+
+nav:
+  - Главная: index.md
+  - О себе: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
