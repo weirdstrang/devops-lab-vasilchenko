@@ -52,13 +52,12 @@
 
 
 
-images/1.jpg
-images/2.jpg
-images/3.jpg
-
-
 <div class="gallery">
     <img src="[https://github.com/weirdstrang]/images/1.jpg"
     <img src="[https://github.com/weirdstrang]/images/2.jpg"
     <img src="[https://github.com/weirdstrang]/images/3.jpg" 
 </div>
+
+
+![img_2.png](images/img_2.png)
+
