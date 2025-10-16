@@ -48,7 +48,24 @@ Date of finished: 16.10.2025
 <img width="968" height="433" alt="image" src="https://github.com/user-attachments/assets/3f632477-c528-4402-8510-a140d9a8c170" />
 ## Настройка поиска. Протестировать функциональность поиска
 
+## Добавить доп. страницу 1
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72f6c155-6a63-41cd-ad85-909d58ff5523" />
 
+## Добавить 2-ю доп. страницу
+<img width="1873" height="729" alt="image" src="https://github.com/user-attachments/assets/09d63aa8-1ab8-4cb8-a21a-516bc0d1d893" />
+
+# Этап 5: Стилизация и кастомизация
+## Настройка цветовой палитры
+<img width="1341" height="595" alt="image" src="https://github.com/user-attachments/assets/3f3c8a90-3512-4c4f-943e-79c2c840b55e" />
+
+## Настройки логотипа
+<img width="1574" height="467" alt="image" src="https://github.com/user-attachments/assets/97886335-8404-487c-a3ef-fd7a23ee4175" />
+
+## Настройки футера
+<img width="1725" height="737" alt="image" src="https://github.com/user-attachments/assets/8b5f5c54-822e-4930-84d4-e1fe13d34cdc" />
+
+# Этап 6: Тестирование и публикация
+## Локальное тестирование
 
 
 
